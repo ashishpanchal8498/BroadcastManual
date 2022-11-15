@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:id="@+id/button_second"
-        android:text="@string/_2nd_activity">
+        android:text="@string/send_broadcast">
     </Button>
 
 </RelativeLayout>
