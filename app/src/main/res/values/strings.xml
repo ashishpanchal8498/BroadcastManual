@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Broadcast Manual</string>
+    <string name="_2nd_activity">2nd Activity</string>
+    <string name="send_broadcast">Send Broadcast</string>
+</resources>

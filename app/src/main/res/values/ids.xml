@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btsecond" type="id" />
+    <item name="btSecond" type="id" />
+    <item name="bt_send_broadcast" type="id" />
+</resources>
